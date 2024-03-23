@@ -1,0 +1,42 @@
+<<<<<<< HEAD
+**Database Name: carrentalp**
+
+**Developed by Arun Hiremath**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Customer Login Details**
+
+Username: lucas
+Password: password
+
+
+**Employee Login Details**
+
+Username: harry
+Password: password
+
+Username: jenny
+=======
+**Database Name: carrentalp**
+
+**Developed by Arun Hiremath**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Customer Login Details**
+
+Username: lucas
+Password: password
+
+
+**Employee Login Details**
+
+Username: harry
+Password: password
+
+Username: jenny
+>>>>>>> a2f9213d4c18992a03a68f4d1ef7dded9db250db
+Password: jenny
